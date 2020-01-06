@@ -1,4 +1,4 @@
-# HTML
+# Wemade Service HTML Convention
 HTML Coding Convention
 
 ## 목차
